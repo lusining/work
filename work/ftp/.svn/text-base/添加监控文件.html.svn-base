@@ -1,0 +1,232 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>添加监控文件</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/添加监控文件/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/添加监控文件/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (Image) -->
+      <div id="u268" class="ax_default image">
+        <img id="u268_img" class="img " src="images/监控文件配置/u219.png"/>
+        <!-- Unnamed () -->
+        <div id="u269" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u270" class="ax_default paragraph" data-label="Text">
+        <div id="u270_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u271" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">业务名称：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u272" class="ax_default text_field" data-label="textfield">
+        <input id="u272_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u273" class="ax_default paragraph" data-label="Text">
+        <div id="u273_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u274" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">同步时间：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u275" class="ax_default text_field" data-label="textfield">
+        <input id="u275_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u276" class="ax_default paragraph" data-label="Text">
+        <div id="u276_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u277" class="text" style="visibility: visible;">
+          <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">文件位置：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u278" class="ax_default text_field" data-label="textfield">
+        <input id="u278_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u279" class="ax_default paragraph" data-label="Text">
+        <div id="u279_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u280" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">数据文件名：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u281" class="ax_default text_field" data-label="textfield">
+        <input id="u281_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u282" class="ax_default paragraph" data-label="Text">
+        <div id="u282_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u283" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">校验文件名：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u284" class="ax_default text_field" data-label="textfield">
+        <input id="u284_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u285" class="ax_default paragraph" data-label="Text">
+        <div id="u285_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u286" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">同步周期：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u287" class="ax_default text_field" data-label="textfield">
+        <input id="u287_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u288" class="ax_default paragraph" data-label="Text">
+        <div id="u288_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u289" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">负责人：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u290" class="ax_default text_field" data-label="textfield">
+        <input id="u290_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u291" class="ax_default paragraph" data-label="Text">
+        <div id="u291_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u292" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">手机：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u293" class="ax_default text_field" data-label="textfield">
+        <input id="u293_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u294" class="ax_default paragraph" data-label="Text">
+        <div id="u294_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u295" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">邮箱：</span></p>
+        </div>
+      </div>
+
+      <!-- textfield (Text Field) -->
+      <div id="u296" class="ax_default text_field" data-label="textfield">
+        <input id="u296_input" type="text" value=""/>
+      </div>
+
+      <!-- radio (Radio Button) -->
+      <div id="u297" class="ax_default radio_button" data-label="radio">
+        <label for="u297_input">
+          <!-- Unnamed () -->
+          <div id="u298" class="text" style="visibility: visible;">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#424242;">每天</span></p>
+          </div>
+        </label>
+        <input id="u297_input" type="radio" value="radio" name="u297"/>
+      </div>
+
+      <!-- radio (Radio Button) -->
+      <div id="u299" class="ax_default radio_button" data-label="radio">
+        <label for="u299_input">
+          <!-- Unnamed () -->
+          <div id="u300" class="text" style="visibility: visible;">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#424242;">每周</span></p>
+          </div>
+        </label>
+        <input id="u299_input" type="radio" value="radio" name="u299" checked/>
+      </div>
+
+      <!-- radio (Radio Button) -->
+      <div id="u301" class="ax_default radio_button" data-label="radio">
+        <label for="u301_input">
+          <!-- Unnamed () -->
+          <div id="u302" class="text" style="visibility: visible;">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#424242;">每月</span></p>
+          </div>
+        </label>
+        <input id="u301_input" type="radio" value="radio" name="u301"/>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u303" class="ax_default image">
+        <img id="u303_img" class="img " src="images/添加监控文件/u303.png"/>
+        <!-- Unnamed () -->
+        <div id="u304" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

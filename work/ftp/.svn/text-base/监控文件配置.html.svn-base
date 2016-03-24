@@ -1,0 +1,284 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>监控文件配置</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/监控文件配置/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/监控文件配置/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Button (Rectangle) -->
+      <div id="u217" class="ax_default shape" data-label="Button">
+        <div id="u217_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u218" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;">＋添加监控平台</span></p>
+        </div>
+      </div>
+
+      <!-- Unnamed (Image) -->
+      <div id="u219" class="ax_default image">
+        <img id="u219_img" class="img " src="images/监控文件配置/u219.png"/>
+        <!-- Unnamed () -->
+        <div id="u220" class="text" style="display: none; visibility: hidden">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#000000;"></span></p>
+        </div>
+      </div>
+
+      <!-- Table (Table) -->
+      <div id="u221" class="ax_default table" data-label="Table">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u222" class="ax_default table_cell">
+          <img id="u222_img" class="img " src="images/监控文件配置/u222.png"/>
+          <!-- Unnamed () -->
+          <div id="u223" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u224" class="ax_default table_cell">
+          <img id="u224_img" class="img " src="images/监控文件配置/u224.png"/>
+          <!-- Unnamed () -->
+          <div id="u225" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">业务名称</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u226" class="ax_default table_cell">
+          <img id="u226_img" class="img " src="images/监控文件配置/u226.png"/>
+          <!-- Unnamed () -->
+          <div id="u227" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">路径</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u228" class="ax_default table_cell">
+          <img id="u228_img" class="img " src="images/监控文件配置/u228.png"/>
+          <!-- Unnamed () -->
+          <div id="u229" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">约定同步时间</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u230" class="ax_default table_cell">
+          <img id="u230_img" class="img " src="images/监控文件配置/u230.png"/>
+          <!-- Unnamed () -->
+          <div id="u231" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">数据文件</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u232" class="ax_default table_cell">
+          <img id="u232_img" class="img " src="images/监控文件配置/u232.png"/>
+          <!-- Unnamed () -->
+          <div id="u233" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">校验文件</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u234" class="ax_default table_cell">
+          <img id="u234_img" class="img " src="images/监控文件配置/u234.png"/>
+          <!-- Unnamed () -->
+          <div id="u235" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">同步周期</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u236" class="ax_default table_cell">
+          <img id="u236_img" class="img " src="images/监控文件配置/u236.png"/>
+          <!-- Unnamed () -->
+          <div id="u237" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">负责人</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u238" class="ax_default table_cell">
+          <img id="u238_img" class="img " src="images/监控文件配置/u238.png"/>
+          <!-- Unnamed () -->
+          <div id="u239" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">手机</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u240" class="ax_default table_cell">
+          <img id="u240_img" class="img " src="images/监控文件配置/u240.png"/>
+          <!-- Unnamed () -->
+          <div id="u241" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">邮箱</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u242" class="ax_default table_cell">
+          <img id="u242_img" class="img " src="images/监控文件配置/u242.png"/>
+          <!-- Unnamed () -->
+          <div id="u243" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">操作</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u244" class="ax_default table_cell">
+          <img id="u244_img" class="img " src="images/监控文件配置/u244.png"/>
+          <!-- Unnamed () -->
+          <div id="u245" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u246" class="ax_default table_cell">
+          <img id="u246_img" class="img " src="images/监控文件配置/u246.png"/>
+          <!-- Unnamed () -->
+          <div id="u247" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u248" class="ax_default table_cell">
+          <img id="u248_img" class="img " src="images/监控文件配置/u248.png"/>
+          <!-- Unnamed () -->
+          <div id="u249" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u250" class="ax_default table_cell">
+          <img id="u250_img" class="img " src="images/监控文件配置/u250.png"/>
+          <!-- Unnamed () -->
+          <div id="u251" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u252" class="ax_default table_cell">
+          <img id="u252_img" class="img " src="images/监控文件配置/u252.png"/>
+          <!-- Unnamed () -->
+          <div id="u253" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u254" class="ax_default table_cell">
+          <img id="u254_img" class="img " src="images/监控文件配置/u254.png"/>
+          <!-- Unnamed () -->
+          <div id="u255" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u256" class="ax_default table_cell">
+          <img id="u256_img" class="img " src="images/监控文件配置/u256.png"/>
+          <!-- Unnamed () -->
+          <div id="u257" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u258" class="ax_default table_cell">
+          <img id="u258_img" class="img " src="images/监控文件配置/u258.png"/>
+          <!-- Unnamed () -->
+          <div id="u259" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u260" class="ax_default table_cell">
+          <img id="u260_img" class="img " src="images/监控文件配置/u260.png"/>
+          <!-- Unnamed () -->
+          <div id="u261" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u262" class="ax_default table_cell">
+          <img id="u262_img" class="img " src="images/监控文件配置/u262.png"/>
+          <!-- Unnamed () -->
+          <div id="u263" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u264" class="ax_default table_cell">
+          <img id="u264_img" class="img " src="images/监控文件配置/u264.png"/>
+          <!-- Unnamed () -->
+          <div id="u265" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#00CCFF;">删除</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#00CCFF;">&nbsp;</span><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#00CCFF;">修改</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#00CCFF;">&nbsp;</span><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#00CCFF;">邮件模版</span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u266" class="ax_default paragraph" data-label="Text">
+        <div id="u266_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u267" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">&lt;1 2 3 4 &gt;</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

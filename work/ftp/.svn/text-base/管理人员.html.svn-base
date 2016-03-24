@@ -1,0 +1,313 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <title>管理人员</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <link href="resources/css/jquery-ui-themes.css" type="text/css" rel="stylesheet"/>
+    <link href="resources/css/axure_rp_page.css" type="text/css" rel="stylesheet"/>
+    <link href="data/styles.css" type="text/css" rel="stylesheet"/>
+    <link href="files/管理人员/styles.css" type="text/css" rel="stylesheet"/>
+    <script src="resources/scripts/jquery-1.7.1.min.js"></script>
+    <script src="resources/scripts/jquery-ui-1.8.10.custom.min.js"></script>
+    <script src="resources/scripts/axure/axQuery.js"></script>
+    <script src="resources/scripts/axure/globals.js"></script>
+    <script src="resources/scripts/axutils.js"></script>
+    <script src="resources/scripts/axure/annotation.js"></script>
+    <script src="resources/scripts/axure/axQuery.std.js"></script>
+    <script src="resources/scripts/axure/doc.js"></script>
+    <script src="data/document.js"></script>
+    <script src="resources/scripts/messagecenter.js"></script>
+    <script src="resources/scripts/axure/events.js"></script>
+    <script src="resources/scripts/axure/recording.js"></script>
+    <script src="resources/scripts/axure/action.js"></script>
+    <script src="resources/scripts/axure/expr.js"></script>
+    <script src="resources/scripts/axure/geometry.js"></script>
+    <script src="resources/scripts/axure/flyout.js"></script>
+    <script src="resources/scripts/axure/ie.js"></script>
+    <script src="resources/scripts/axure/model.js"></script>
+    <script src="resources/scripts/axure/repeater.js"></script>
+    <script src="resources/scripts/axure/sto.js"></script>
+    <script src="resources/scripts/axure/utils.temp.js"></script>
+    <script src="resources/scripts/axure/variables.js"></script>
+    <script src="resources/scripts/axure/drag.js"></script>
+    <script src="resources/scripts/axure/move.js"></script>
+    <script src="resources/scripts/axure/visibility.js"></script>
+    <script src="resources/scripts/axure/style.js"></script>
+    <script src="resources/scripts/axure/adaptive.js"></script>
+    <script src="resources/scripts/axure/tree.js"></script>
+    <script src="resources/scripts/axure/init.temp.js"></script>
+    <script src="files/管理人员/data.js"></script>
+    <script src="resources/scripts/axure/legacy.js"></script>
+    <script src="resources/scripts/axure/viewer.js"></script>
+    <script src="resources/scripts/axure/math.js"></script>
+    <script type="text/javascript">
+      $axure.utils.getTransparentGifPath = function() { return 'resources/images/transparent.gif'; };
+      $axure.utils.getOtherPath = function() { return 'resources/Other.html'; };
+      $axure.utils.getReloadPath = function() { return 'resources/reload.html'; };
+    </script>
+  </head>
+  <body>
+    <div id="base" class="">
+
+      <!-- Unnamed (File) -->
+      <div id="u309" class="ax_default flow_shape">
+        <img id="u309_img" class="img " src="images/流程/u38.png"/>
+        <!-- Unnamed () -->
+        <div id="u310" class="text" style="visibility: visible;">
+          <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">统一邮件提醒配置：</span><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">身份：业务／产品／数据 负责人等</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">姓名：</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">手机：</span></p><p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">邮箱：</span></p>
+        </div>
+      </div>
+
+      <!-- Header 2 (Rectangle) -->
+      <div id="u311" class="ax_default paragraph" data-label="Header 2">
+        <div id="u311_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u312" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">管理人员列表</span></p>
+        </div>
+      </div>
+
+      <!-- Table (Table) -->
+      <div id="u313" class="ax_default table" data-label="Table">
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u314" class="ax_default table_cell">
+          <img id="u314_img" class="img " src="images/管理人员/u314.png"/>
+          <!-- Unnamed () -->
+          <div id="u315" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">序号</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u316" class="ax_default table_cell">
+          <img id="u316_img" class="img " src="images/管理人员/u314.png"/>
+          <!-- Unnamed () -->
+          <div id="u317" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">身份</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u318" class="ax_default table_cell">
+          <img id="u318_img" class="img " src="images/管理人员/u314.png"/>
+          <!-- Unnamed () -->
+          <div id="u319" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">姓名</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u320" class="ax_default table_cell">
+          <img id="u320_img" class="img " src="images/管理人员/u314.png"/>
+          <!-- Unnamed () -->
+          <div id="u321" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">手机</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u322" class="ax_default table_cell">
+          <img id="u322_img" class="img " src="images/管理人员/u314.png"/>
+          <!-- Unnamed () -->
+          <div id="u323" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">邮箱</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u324" class="ax_default table_cell">
+          <img id="u324_img" class="img " src="images/管理人员/u324.png"/>
+          <!-- Unnamed () -->
+          <div id="u325" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';font-weight:650;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">操作</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u326" class="ax_default table_cell">
+          <img id="u326_img" class="img " src="images/管理人员/u326.png"/>
+          <!-- Unnamed () -->
+          <div id="u327" class="text" style="visibility: visible;">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">1</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u328" class="ax_default table_cell">
+          <img id="u328_img" class="img " src="images/管理人员/u326.png"/>
+          <!-- Unnamed () -->
+          <div id="u329" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">产品负责人</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u330" class="ax_default table_cell">
+          <img id="u330_img" class="img " src="images/管理人员/u326.png"/>
+          <!-- Unnamed () -->
+          <div id="u331" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">王振兴</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u332" class="ax_default table_cell">
+          <img id="u332_img" class="img " src="images/管理人员/u326.png"/>
+          <!-- Unnamed () -->
+          <div id="u333" class="text" style="visibility: visible;">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">13912341234</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u334" class="ax_default table_cell">
+          <img id="u334_img" class="img " src="images/管理人员/u326.png"/>
+          <!-- Unnamed () -->
+          <div id="u335" class="text" style="visibility: visible;">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">wangzx@c-plam</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u336" class="ax_default table_cell">
+          <img id="u336_img" class="img " src="images/管理人员/u336.png"/>
+          <!-- Unnamed () -->
+          <div id="u337" class="text" style="visibility: visible;">
+            <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#00CCFF;">删除</span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u338" class="ax_default table_cell">
+          <img id="u338_img" class="img " src="images/管理人员/u338.png"/>
+          <!-- Unnamed () -->
+          <div id="u339" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u340" class="ax_default table_cell">
+          <img id="u340_img" class="img " src="images/管理人员/u338.png"/>
+          <!-- Unnamed () -->
+          <div id="u341" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u342" class="ax_default table_cell">
+          <img id="u342_img" class="img " src="images/管理人员/u338.png"/>
+          <!-- Unnamed () -->
+          <div id="u343" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u344" class="ax_default table_cell">
+          <img id="u344_img" class="img " src="images/管理人员/u338.png"/>
+          <!-- Unnamed () -->
+          <div id="u345" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u346" class="ax_default table_cell">
+          <img id="u346_img" class="img " src="images/管理人员/u338.png"/>
+          <!-- Unnamed () -->
+          <div id="u347" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+
+        <!-- Unnamed (Table Cell) -->
+        <div id="u348" class="ax_default table_cell">
+          <img id="u348_img" class="img " src="images/管理人员/u348.png"/>
+          <!-- Unnamed () -->
+          <div id="u349" class="text" style="display: none; visibility: hidden">
+            <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;"></span></p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Header 2 (Rectangle) -->
+      <div id="u350" class="ax_default paragraph" data-label="Header 2">
+        <div id="u350_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u351" class="text" style="visibility: visible;">
+          <p><span style="font-family:'PingFangSC-Regular', 'PingFang SC';font-weight:400;font-style:normal;font-size:16px;text-decoration:none;color:#333333;">添加管理人员</span></p>
+        </div>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u352" class="ax_default paragraph" data-label="Text">
+        <div id="u352_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u353" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">身份：</span></p>
+        </div>
+      </div>
+
+      <!-- Input Field (Text Field) -->
+      <div id="u354" class="ax_default text_field" data-label="Input Field">
+        <input id="u354_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u355" class="ax_default paragraph" data-label="Text">
+        <div id="u355_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u356" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">姓名：</span></p>
+        </div>
+      </div>
+
+      <!-- Input Field (Text Field) -->
+      <div id="u357" class="ax_default text_field" data-label="Input Field">
+        <input id="u357_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u358" class="ax_default paragraph" data-label="Text">
+        <div id="u358_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u359" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">手机号：</span></p>
+        </div>
+      </div>
+
+      <!-- Input Field (Text Field) -->
+      <div id="u360" class="ax_default text_field" data-label="Input Field">
+        <input id="u360_input" type="text" value=""/>
+      </div>
+
+      <!-- Text (Rectangle) -->
+      <div id="u361" class="ax_default paragraph" data-label="Text">
+        <div id="u361_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u362" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#333333;">邮箱：</span></p>
+        </div>
+      </div>
+
+      <!-- Input Field (Text Field) -->
+      <div id="u363" class="ax_default text_field" data-label="Input Field">
+        <input id="u363_input" type="text" value=""/>
+      </div>
+
+      <!-- Button (Rectangle) -->
+      <div id="u364" class="ax_default shape" data-label="Button">
+        <div id="u364_div" class=""></div>
+        <!-- Unnamed () -->
+        <div id="u365" class="text" style="visibility: visible;">
+          <p><span style="font-family:'ArialMT', 'Arial';font-weight:400;font-style:normal;font-size:13px;text-decoration:none;color:#FFFFFF;">添加</span></p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,151 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:568px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:568px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:276px;
+  width:316px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:65px;
+  width:320px;
+  height:75px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:75px;
+}
+#u3 {
+  position:absolute;
+  left:2px;
+  top:30px;
+  width:316px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u4 {
+  position:absolute;
+  left:20px;
+  top:70px;
+  width:140px;
+  height:70px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:140px;
+  height:70px;
+}
+#u5 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:136px;
+  word-wrap:break-word;
+}
+#u6 {
+  position:absolute;
+  left:170px;
+  top:70px;
+  width:130px;
+  height:70px;
+}
+#u6_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:130px;
+  height:70px;
+}
+#u7 {
+  position:absolute;
+  left:2px;
+  top:28px;
+  width:126px;
+  word-wrap:break-word;
+}
+body.a {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.a {
+}
+#u2.a {
+}
+#u4.a {
+}
+#u6.a {
+}
+body.b {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.b {
+}
+#u2.b {
+}
+#u4.b {
+}
+#u6.b {
+}
+body.c {  background-color:rgba(255, 255, 255, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:320px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#u0.c {
+}
+#u2.c {
+}
+#u4.c {
+}
+#u6.c {
+}
