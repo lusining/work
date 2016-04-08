@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+	<!-- <Resource name="takeout" auth="Container" type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://127.0.0.1:3306/takeout"
+		username="root" password="x5" maxActive="10" maxIdle="5" /> -->
+	<Resource name="takeout" auth="Container" type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://mysql.hostinger.com.hk/u711922841_work"
+		username="u711922841_ludy" password="nightsky" maxActive="10" maxIdle="5" />
+	<Resource name="account" auth="Container" type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://127.0.0.1:3306/account"
+		username="root" password="x5" maxActive="10" maxIdle="5" />
+	<Resource name="demo" auth="Container" type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver" url="jdbc:mysql://127.0.0.1:3306/demo"
+		username="root" password="x5" maxActive="10" maxIdle="5" />
+</model>
